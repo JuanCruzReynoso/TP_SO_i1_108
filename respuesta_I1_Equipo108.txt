@@ -11,3 +11,5 @@ c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 Sí. Se ven los datos de mis compañeros.
 d-¿De qué forma se comunicaron ustedes?  
 Mediante WhatsApp.
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Atravez de los commit realizados se, ya que queda reflejado quienes los han hecho 
